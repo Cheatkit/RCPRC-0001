@@ -1,18 +1,6 @@
-/*
-Prüfung M319 Bopp
-
-Dieser Code sollte einen Taschenrechner darstellen
-
-Der Taschenrechner sollte Werte von 0 bis maximal 10 rechnen koennen
-Der Taschenrechner sollte Werte wie Buchstaben e.g (A,B,C,D,E...) herausfiltern können uns sagen dass diese nicht gueltige Werte sind
-Der Taschenrechner sollte Werte die über 10 sind herausfiltern und den User dazu auffordern eine Zahl bis zu 10 einzugeben
-Der Taschenrechner sollte den User nach einer erfolgreichen Rechnung die Wahl geben weiter zumachen. Wenn er "J" drückt, dann geht das programm weiter und Wenn er "N" drückt stopt es
-
- */
-
 import java.util.Scanner;
 
-public class Taschenrechner {
+public class SimpleCalculator {
 
     public static void main(String[] args) {
 
@@ -113,3 +101,7 @@ public class Taschenrechner {
         System.out.println("Adieu!");
     }
 }
+
+/*
+Made by Rayan Lee Bopp
+*/
