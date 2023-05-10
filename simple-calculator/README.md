@@ -30,11 +30,3 @@ This will compile and run the program.
 5. The program will then ask if you want to perform another calculation. Enter 'J' or 'j' to continue or 'N' or 'n' to exit the program.
 
 6. If you choose to continue, the program will loop back to step 1. If you choose to exit, the program will terminate.
-
-## Contributing
-
-This program was created by Rayan Lee Bopp as a personal project. Contributions are not currently being accepted.
-
-## License
-
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
